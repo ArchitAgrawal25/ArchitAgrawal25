@@ -8,7 +8,7 @@ I'm Archit Agrawal, **Aspiring Data Scientist** eager to uncover hidden patterns
 
 ## Connect With Me 🤝
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/archit-agrawal/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/archit-agrawal-860105293/)
 [![Gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:architagrawal063@gmail.com)
 
 ## Tech Stack 🛠
